@@ -1,3 +1,0 @@
-# AlgoritmaVeProgramlamaC-
-# AlgoritmaVeProgrC-
-Cpp
